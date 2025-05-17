@@ -3,4 +3,4 @@ Learning basic Git commands
 
 Dependencies:
 
-Python 3.12 (at least)
+Python 3.13+
