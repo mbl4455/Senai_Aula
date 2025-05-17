@@ -1,0 +1,1 @@
+print("nobru free fire")
